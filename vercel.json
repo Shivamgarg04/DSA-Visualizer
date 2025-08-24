@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/(.*)", "dest": "/Project-Algorithm-Visualizer-main/index.html" }
+  ]
+}
