@@ -33,5 +33,4 @@ The goal of this project is to simplify the learning process by providing **step
 - **Frontend:** HTML, CSS, JavaScript  
 - **Libraries/Tools:** Vanilla JS animations, DOM manipulation  
 
->>>>>>> 99e857572890704fd665d3c7fedc05224ecfaff0
 
